@@ -1,0 +1,24 @@
+{
+  "tool": "@averildwi/nest-skills",
+  "version": "1.0.2",
+  "agent": "opencode",
+  "skillsDir": ".opencode/skills",
+  "indexFile": "AGENTS.md",
+  "files": {
+    ".opencode/skills/git-workflow/SKILL.md": "8963c7b6e94b37bc2b8b858fad858ba0358351777d38a05e3c89b8db7f1e345a",
+    ".opencode/skills/nest-architecture/SKILL.md": "b2c21bb34344b12e80f97de35b22f79b73477c256197397662b40239733ad715",
+    ".opencode/skills/nest-auth-and-security/references/google-id-token.md": "96e7b2e624ac73ac361cbe0581d5c6c2be6ce9398ff8b6def099f01b050af719",
+    ".opencode/skills/nest-auth-and-security/references/hash-migration.md": "92a17b4d4e12d02dd586103155b6e7a4368ccfe61cf404d03536e312bb651fa4",
+    ".opencode/skills/nest-auth-and-security/references/per-resource-roles.md": "d26ec9feefd0b67e1e4205e917b238c2dd5d58abee7d091cc05ec60f92150960",
+    ".opencode/skills/nest-auth-and-security/references/reference-implementation.md": "d2ad6d5f8088d3e97fa002cca58d8e1f6fedbfc428d10052dcaa5f26152e1e0b",
+    ".opencode/skills/nest-auth-and-security/references/refresh-tokens.md": "091139249dccdff757256788b0da0f36da3406550c0386680499a5d0e2f8e803",
+    ".opencode/skills/nest-auth-and-security/references/test-recipes.md": "b3b984bd4bcd9fb46c269ec1cedb28fc5bf259618b6d88180b51ce684bfad75f",
+    ".opencode/skills/nest-auth-and-security/references/websocket-auth.md": "6280986b8b06069eb12e451fa529c338487914f7e28f67fef6e8406bb0c8b483",
+    ".opencode/skills/nest-auth-and-security/SKILL.md": "803b80ee8f924b381305bbe66d6777667a39bd415b38f4265cb7da90a3e63b91",
+    ".opencode/skills/nest-prisma/SKILL.md": "beb4157d3cae846301fe63eed0de2e15c9538045b4afec45eca22fd25d959ec2",
+    ".opencode/skills/nest-response-and-errors/SKILL.md": "955bee11bd4f355a195c2a4e19a57037031dfad90a4ecf07e32040acf4b4165b",
+    ".opencode/skills/nest-testing/SKILL.md": "d5e05ff9b66fbeadb839b3813e2b606fe28c1abc7129e24a93466eba7ab6e089",
+    ".opencode/skills/nest-validation-and-config/SKILL.md": "119f5282c4b814dda110c11725d29509aae19a5a49a56aa3f59440e8f874b840",
+    "AGENTS.md": "18b15b20da44ce626cc1090ff90d04ed9f40d7848a9b139b4611330b439c8ac7"
+  }
+}
