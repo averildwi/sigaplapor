@@ -59,6 +59,6 @@ async function bootstrap() {
   SwaggerModule.setup('docs', app, document, {
     swaggerOptions: { persistAuthorization: true },
   });
-  await app.listen(process.env.PORT ?? 3000);
+  await app.listen(config.getOrThrow<number>('PORT'));
 }
 void bootstrap();
